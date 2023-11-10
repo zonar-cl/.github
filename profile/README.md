@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Logo-Zonar.png" width="200"/>
+  <img src="https://github.com/zonar-cl/.github/blob/8f82ae983f11ad0b7c0dd3202fc78dcb2a6d6bd9/profile/Logo-Zonar.png" width="200"/>
 </div>
 
 # ¿Quienes somos?
