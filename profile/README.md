@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="assets/Logo-Zonar.png" width="200"/>
+  <img src="Logo-Zonar.png" width="200"/>
 </div>
 
 # ¿Quienes somos?
